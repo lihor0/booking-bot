@@ -7,6 +7,18 @@
 
 **Стек:** Python 3.11+, aiogram 3, SQLite (aiosqlite), pytest
 
+![Обложка](docs/cover.jpg)
+
+## Как это выглядит
+
+| Старт | Выбор услуги | Выбор даты |
+|:-:|:-:|:-:|
+| <img src="docs/screenshots/02-start.jpg" width="240"> | <img src="docs/screenshots/03-services.jpg" width="240"> | <img src="docs/screenshots/04-dates.jpg" width="240"> |
+| **Свободное время** | **Подтверждение** | **Готово + уведомление админу** |
+| <img src="docs/screenshots/05-times.jpg" width="240"> | <img src="docs/screenshots/06-confirm.jpg" width="240"> | <img src="docs/screenshots/07-booked.jpg" width="240"> |
+| **Мои записи** | **Админ-панель** | **Прайс-лист** |
+| <img src="docs/screenshots/08-my-bookings.jpg" width="240"> | <img src="docs/screenshots/09-admin.jpg" width="240"> | <img src="docs/screenshots/10-prices.jpg" width="240"> |
+
 ## Возможности
 
 **Для клиента**
