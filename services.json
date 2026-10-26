@@ -1,0 +1,6 @@
+[
+  {"id": "haircut", "name": "Мужская стрижка", "price": 1500, "duration": 60},
+  {"id": "beard", "name": "Моделирование бороды", "price": 900, "duration": 30},
+  {"id": "combo", "name": "Стрижка + борода", "price": 2200, "duration": 90},
+  {"id": "kids", "name": "Детская стрижка", "price": 1000, "duration": 45}
+]
